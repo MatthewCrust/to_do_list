@@ -1,0 +1,24 @@
+
+.item-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    margin-right: 5px;
+    padding: 5px;
+    border-radius: 4px;
+    border: solid 1px black;
+  }
+  
+  span {
+    margin-right: 5px;
+  }
+  .name-input{
+    width: 350px;
+  }
+  .quantity-input{
+    width: 100px;
+  }
+  
